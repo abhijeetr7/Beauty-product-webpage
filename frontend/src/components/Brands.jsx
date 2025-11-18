@@ -5,7 +5,7 @@ import featured3 from "../assets/brands/featured3.jpg";
 
 import kayBeauty from "../assets/brands/kayBeauty.avif";
 import mac from "../assets/brands/mac.jpg";
-import dotKey from "../assets/brands/dotKey.webp";
+import dotKey from "../assets/brands/dotkey.webp";
 import maybelline from "../assets/brands/maybelline.jpg";
 import lakme from "../assets/brands/lakme.avif";
 
